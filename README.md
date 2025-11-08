@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anagha1507
-- 👀 I’m interested in Java programming
+- 👀 I’m interested in Java programming and Python
 - 🌱 I’m currently persuing my B.E in AI&ML
 
 
